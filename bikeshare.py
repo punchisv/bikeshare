@@ -343,6 +343,7 @@ def data_display(df):
     print("\n*****Leaving data_display()\n")
     input("\nPress Carriage Return(Enter) to Continue >>> ")
 
+def select_week()
 
 ###### main() Start ****************************
 def main():
