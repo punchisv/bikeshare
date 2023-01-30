@@ -344,6 +344,7 @@ def data_display(df):
     input("\nPress Carriage Return(Enter) to Continue >>> ")
 
 def select_week()
+def select_day()
 
 ###### main() Start ****************************
 def main():
