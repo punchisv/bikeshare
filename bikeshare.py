@@ -345,6 +345,7 @@ def data_display(df):
 
 def select_week()
 def select_day()
+def select_hour()
 
 ###### main() Start ****************************
 def main():
