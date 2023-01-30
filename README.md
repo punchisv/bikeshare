@@ -16,3 +16,4 @@ The book by Andrew Pratt - PYTHON 3 PROGRAMMING AND GUIs
 
 Web sites:
           www.statology.org
+          www.geeksforgeeks.com
